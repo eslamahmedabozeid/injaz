@@ -19368,3 +19368,18 @@ table.dataTable td {
     color: #000;
     text-align: right;
 }
+
+.flexed {
+    display: flex;
+    direction: rtl;
+}
+
+.stduint {
+    direction: rtl;
+    margin: 50px 0;
+}
+
+.stduint h1 {
+    text-align: right;
+    margin: 50px 0;
+}
