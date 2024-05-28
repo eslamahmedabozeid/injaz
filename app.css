@@ -19490,3 +19490,78 @@ table.dataTable td {
     border: 1px solid #EDED;
     border-radius: 10px;
 }
+
+.checkbox_enter {
+    text-align: right;
+    width: 100%;
+    direction: rtl;
+}
+
+.checkbox_enter table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.checkbox_enter table th.checkbox_enter,
+table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.checkbox_enter table th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.checkbox_enter table td {
+    background-color: #f9f9f9;
+}
+
+.checkbox_enter input[type="checkbox"] {
+    pointer-events: none;
+}
+
+.checkbox_enter tr th {
+    padding: 20px;
+    background-color: #3a7976;
+    color: #fff;
+}
+
+.school {
+    font-family: Arial, sans-serif;
+    direction: rtl;
+    text-align: right;
+}
+
+.school table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+}
+
+.school th,
+.school td {
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+
+.school th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.school td {
+    background-color: #f2f2f2;
+}
+
+.school .header {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.school .centered {
+    text-align: center;
+}
