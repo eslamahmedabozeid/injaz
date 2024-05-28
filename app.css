@@ -19389,6 +19389,7 @@ table.dataTable td {
     background-color: #fff;
     border-radius: 8px;
     direction: rtl;
+    margin-bottom: 5%;
 }
 
 .table-container table {
