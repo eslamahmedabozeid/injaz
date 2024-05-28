@@ -19411,3 +19411,30 @@ table.dataTable td {
 .table-container tr:nth-child(even) {
     background-color: #f9f9f9;
 }
+
+.table_second_reviwe {
+    text-align: right;
+    padding: 20px;
+}
+
+.table_second_reviwe table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.table_second_reviwe table th,
+.table_second_reviwe table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.table_second_reviwe table th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.table_second_reviwes table td {
+    background-color: #f9f9f9;
+}
