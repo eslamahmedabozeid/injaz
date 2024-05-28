@@ -19432,7 +19432,7 @@ table.dataTable td {
 }
 
 .table_second_reviwe table th {
-    background-color: #4CAF50;
+    background-color: #3c7876;
     color: white;
 }
 
@@ -19458,7 +19458,7 @@ table.dataTable td {
 }
 
 .enter_absence table th {
-    background-color: #4CAF50;
+    background-color: #3c7876;
     color: white;
 }
 
@@ -19512,7 +19512,7 @@ table td {
 }
 
 .checkbox_enter table th {
-    background-color: #4CAF50;
+    background-color: #3c7876;
     color: white;
 }
 
@@ -19549,8 +19549,12 @@ table td {
     border: 1px solid #ddd;
 }
 
+.school td {
+    padding: 0 12px;
+}
+
 .school th {
-    background-color: #4CAF50;
+    background-color: #3c7876;
     color: white;
 }
 
@@ -19559,7 +19563,7 @@ table td {
 }
 
 .school .header {
-    background-color: #4CAF50;
+    background-color: #3c7876;
     color: white;
 }
 
@@ -19588,4 +19592,9 @@ table td {
 
 .lecturer_information {
     text-align: center;
+}
+
+thead tr th {
+    background-color: #3c7876;
+    color: #fff;
 }
