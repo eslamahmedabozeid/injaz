@@ -19464,3 +19464,29 @@ table.dataTable td {
 .enter_absence table td {
     background-color: #f9f9f9;
 }
+
+.content {
+    display: flex;
+    margin-top: 11%;
+    margin-bottom: 11%;
+}
+
+.flexed_bsence {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.flexed_bsence {
+    display: flex;
+    align-items: center;
+    text-align: right;
+}
+
+.data_number {
+    width: 100%;
+    padding: 11px;
+    border: 1px solid #EDED;
+    border-radius: 10px;
+}
