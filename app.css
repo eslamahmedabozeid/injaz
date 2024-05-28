@@ -19565,3 +19565,26 @@ table td {
 .school .centered {
     text-align: center;
 }
+
+.informations {
+    margin: auto;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.informations td,
+.informations th {
+    border: 1px solid #dddddd;
+    text-align: right;
+    padding: 8px;
+    width: 50%;
+}
+
+.informations tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.lecturer_information {
+    text-align: center;
+}
