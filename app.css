@@ -19438,3 +19438,29 @@ table.dataTable td {
 .table_second_reviwes table td {
     background-color: #f9f9f9;
 }
+
+.enter_absence {
+    text-align: right;
+}
+
+.enter_absence table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.enter_absence table th,
+.enter_absence table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.enter_absence table th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.enter_absence table td {
+    background-color: #f9f9f9;
+}
